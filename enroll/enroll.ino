@@ -1,3 +1,4 @@
+
 /*************************************************** 
   This is an example sketch for our optical Fingerprint sensor
 
@@ -22,7 +23,7 @@
 
 // For UNO and others without hardware serial, we must use software serial...
 // pin #2 is IN from sensor (GREEN wire)
-// pin #3 is OUT from arduino  (WHITE wire)
+// pin #3 is OUT from arduino  (WHITE wb0obxn nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn                                nnnnnnnnnnnnire)
 // comment these two lines if using hardware serial
 #include <SoftwareSerial.h>
 SoftwareSerial mySerial(2, 3);
